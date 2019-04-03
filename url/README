@@ -1,0 +1,15 @@
+* To run this project is simple, download the project folder, inside de url folder open the index.html with you preference browser and be happy.
+
+* plase open the archives .js inside a js folder and see de code, modify it, test, is a very simple code.
+
+* please open the archives .js inside the js folder and see my, modify it, test, is a very simple code. not  is complex in nothing.
+
+*  In this project i use the swal2 (sweet alert), a subistitute fot the conventional alert of javascript, with more recourses, 
+   and not is blocked for the net browsers.
+
+* My code style is a simple precedural code plus a camelCase, Orientation Object only if is need, otherwise not.
+
+* In a better way a can, improve the visual appearance.
+* In the version 2.0 I do improve the visual appearance, add external sensor of tempreature, in the case of summer, 
+  code the rules on the server side maybe how  i do  get the information and send via javascipt in a car for a tablet or smartphone??
+
